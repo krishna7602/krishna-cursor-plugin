@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "krishna": {
+      "type": "sse",
+      "url": "http://localhost:8000/api/mcp/sse?server=krishna"
+    }
+  }
+}
